@@ -1,0 +1,31 @@
+body{
+    font-family: 'Cairo', sans-serif;
+font-family: 'Titillium Web', sans-serif;
+}
+.section1{
+    display: flex;
+    margin-left: 150px;
+}
+.sec1-divs{
+    width: 50%;
+    margin: 30px;
+}
+.sec1-img{
+    width: 65%;
+    padding-top: 10px;
+}
+.sec1-h1{
+    font-size: 55px;
+    border-left: 7px solid indigo;
+    border-image: linear-gradient(rgba(18, 18, 228, 0.918), rgba(240, 118, 19, 0.952));
+    border-image-slice: 1;
+}
+.explor-button{
+    background-color: rgb(174, 0, 255);
+    border-radius: 5px;
+    font-size: 17px;
+    color: rgb(255, 255, 255);
+    font-weight: 700;
+    padding: 8px 12px;
+    text-decoration: none;
+}

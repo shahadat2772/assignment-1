@@ -29,3 +29,6 @@ font-family: 'Titillium Web', sans-serif;
     padding: 8px 12px;
     text-decoration: none;
 }
+.sec2-parent-div{
+    display: flex;
+}

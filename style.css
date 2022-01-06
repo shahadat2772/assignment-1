@@ -1,6 +1,7 @@
 body{
     font-family: 'Cairo', sans-serif;
-font-family: 'Titillium Web', sans-serif;
+    font-family: 'Titillium Web', sans-serif;
+    margin: 0;
 }
 .section1{
     display: flex;
@@ -36,7 +37,7 @@ font-family: 'Titillium Web', sans-serif;
     font-size: 40px;
     text-align: center;
 }
-#this-year{
+.this-year{
     color: blueviolet;
 }
 .sec2-parent-div{
@@ -76,7 +77,6 @@ font-family: 'Titillium Web', sans-serif;
 }
 .sec3-div2{
     width: 48%;
-    margin-top: 25px;
 }
 .sec3-image{
     width: 86%;
@@ -84,4 +84,34 @@ font-family: 'Titillium Web', sans-serif;
 #sec3-h1{
     font-size: 35px;
     font-weight: 670;
+}
+.section4{
+    margin-top: 65px;
+}
+.sec4-parent-div{
+    display: flex;
+    margin-left: 200px;
+}
+.sec4-div1{
+    width: 48%;
+}
+.sec4-div2{
+    width: 35%;
+    margin-left: 33px;
+}
+.web-footer{
+    text-align: center;
+    background-color: rgb(87, 87, 87);
+    padding-bottom: 14px;
+    padding-top: 1px;
+    margin-top: 65px;
+}
+.web-footer h1{
+    color: white;
+}
+#footer-2022{
+    color: rgb(255, 191, 14);
+}
+.web-footer p{
+    color: white;
 }

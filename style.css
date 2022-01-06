@@ -4,7 +4,7 @@ font-family: 'Titillium Web', sans-serif;
 }
 .section1{
     display: flex;
-    margin-left: 150px;
+    margin-left: 170px;
 }
 .sec1-divs{
     width: 50%;
@@ -13,6 +13,7 @@ font-family: 'Titillium Web', sans-serif;
 .sec1-img{
     width: 65%;
     padding-top: 10px;
+    margin-left: 15px;
 }
 .sec1-h1{
     font-size: 55px;
@@ -28,7 +29,59 @@ font-family: 'Titillium Web', sans-serif;
     font-weight: 700;
     padding: 8px 12px;
     text-decoration: none;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#sec2-h1{
+    font-size: 40px;
+    text-align: center;
+}
+#this-year{
+    color: blueviolet;
 }
 .sec2-parent-div{
     display: flex;
+    margin-left: 230px;
+}
+.sec2-divs{
+    width: 230px;
+    padding: 20px;
+}
+.sec2-image{
+    width: 42%;
+}
+#sec2-div1{
+    background-color: rgba(10, 206, 206, 0.13);
+    margin-right: 27px;
+    border-radius: 15px;
+}
+#sec2-div2{
+    background-color: rgba(255, 228, 196, 0.37);
+    border-radius: 15px;
+}
+#sec2-div3{
+    background-color: rgba(137, 43, 226, 0.11);
+    margin-left: 27px;
+    border-radius: 15px;
+}
+.section3{
+    margin-top: 64px;
+}
+.sec3-parent-div{
+    display: flex;
+    margin-left: 200px;
+}
+.sec3-div1{
+    width: 35%;
+}
+.sec3-div2{
+    width: 48%;
+    margin-top: 25px;
+}
+.sec3-image{
+    width: 86%;
+}
+#sec3-h1{
+    font-size: 35px;
+    font-weight: 670;
 }

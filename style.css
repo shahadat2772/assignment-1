@@ -115,3 +115,19 @@ body{
 .web-footer p{
     color: white;
 }
+.section5{
+    margin-left: 180px;
+    margin-top: 64px;
+}
+.sec5-div1{
+    width: 26%;
+    background-color: rgba(0, 197, 177, 0.322);
+    padding: 20px;
+    border-radius: 15px;
+}
+.sec5-div1 img{
+    width: 50%;
+}
+.sec5-div1 h1{
+    font-size: 35px;
+}

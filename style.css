@@ -116,18 +116,50 @@ body{
     color: white;
 }
 .section5{
-    margin-left: 180px;
     margin-top: 64px;
+    padding-left: 180px;
+}
+.sec5-bg{
+    background-color: rgba(69, 17, 82, 0.288);
+    width: 82%;
+    border-radius: 15px;
+    border-right: 5px solid purple;
+}
+.sec5-parent-div{
+    display: flex;
+    
+}
+.sec5-divs{
+    width: 40%;
 }
 .sec5-div1{
     width: 26%;
-    background-color: rgba(0, 197, 177, 0.322);
     padding: 20px;
-    border-radius: 15px;
+    padding-left: 45px;
 }
 .sec5-div1 img{
     width: 50%;
 }
 .sec5-div1 h1{
     font-size: 35px;
+}
+.sec5-div2{
+    width: 400px;
+    padding-left: 190px;
+    padding-top: 10px;
+
+}
+.input-field{
+    width: 400px;
+    height: 50px;
+    margin-top: 20px;
+    padding-left: 10px;
+    padding-left: 10px;
+    border: 1 px solid #777;
+    border-radius: 14px;
+    outline: none;
+}
+.textarea-field{
+    height: 150px;
+    padding-top: 10PX;
 }
